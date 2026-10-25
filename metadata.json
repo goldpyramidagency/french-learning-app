@@ -1,0 +1,6 @@
+{
+  "name": "Parler - Daily French Vocabulary & AI Tutor",
+  "description": "A cumulative French-only language learning web app featuring spaced repetition, daily structured sessions, comprehensive phrase library, and an AI tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
